@@ -1,0 +1,10 @@
+2023-07-10 14:47:19.670 +05:30 [INF] Application is ready
+2023-07-10 14:47:19.821 +05:30 [DBG] Hosting starting
+2023-07-10 14:47:19.993 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 14:47:19.995 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 14:47:19.996 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 14:47:19.998 +05:30 [INF] Hosting environment: Development
+2023-07-10 14:47:19.999 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 14:47:20.000 +05:30 [DBG] Hosting started
+2023-07-10 14:47:24.447 +05:30 [ERR] Application is ready
+2023-07-10 14:47:25.512 +05:30 [ERR] Application is ready

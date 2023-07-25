@@ -1,0 +1,39 @@
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:61385",
+      "sslPort": 44309
+    }
+  },
+  "profiles": {
+    "My.Amazing.Template": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      //#if EnableSwaggerSupport
+      "launchUrl": "swagger",
+      ////#else
+      //"launchUrl": "weatherforecast",
+      //#endif
+      "applicationUrl": "https://localhost:7171;http://localhost:5123",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      //#if EnableSwaggerSupport
+      "launchUrl": "swagger",
+      ////#else
+      //"launchUrl": "weatherforecast",
+      //#endif
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

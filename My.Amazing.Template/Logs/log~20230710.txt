@@ -1,0 +1,3056 @@
+2023-07-10 14:48:15.804 +05:30 [INF] Application is ready
+2023-07-10 14:48:15.948 +05:30 [DBG] Hosting starting
+2023-07-10 14:48:16.119 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 14:48:16.122 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 14:48:16.124 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 14:48:16.127 +05:30 [INF] Hosting environment: Development
+2023-07-10 14:48:16.127 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 14:48:16.128 +05:30 [DBG] Hosting started
+2023-07-10 15:00:48.366 +05:30 [INF] Application is ready
+2023-07-10 15:00:48.509 +05:30 [DBG] Hosting starting
+2023-07-10 15:00:48.692 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 15:00:48.694 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 15:00:48.696 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 15:00:48.698 +05:30 [INF] Hosting environment: Development
+2023-07-10 15:00:48.698 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 15:00:48.699 +05:30 [DBG] Hosting started
+2023-07-10 15:02:37.096 +05:30 [ERR] Application is ready
+2023-07-10 15:02:38.487 +05:30 [ERR] Application is ready
+2023-07-10 15:10:12.530 +05:30 [INF] Application is ready
+2023-07-10 15:10:12.674 +05:30 [DBG] Hosting starting
+2023-07-10 15:10:12.836 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 15:10:12.839 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 15:10:12.840 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 15:10:12.841 +05:30 [INF] Hosting environment: Development
+2023-07-10 15:10:12.842 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 15:10:12.842 +05:30 [DBG] Hosting started
+2023-07-10 17:57:08.245 +05:30 [INF] Application is ready
+2023-07-10 17:57:08.434 +05:30 [DBG] Hosting starting
+2023-07-10 17:57:08.709 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 17:57:08.712 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 17:57:08.714 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 17:57:08.715 +05:30 [INF] Hosting environment: Development
+2023-07-10 17:57:08.716 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 17:57:08.717 +05:30 [DBG] Hosting started
+2023-07-10 17:57:13.601 +05:30 [ERR] Application is ready
+2023-07-10 17:57:15.177 +05:30 [ERR] Application is ready
+2023-07-10 18:02:30.413 +05:30 [INF] Application is ready
+2023-07-10 18:02:30.560 +05:30 [DBG] Hosting starting
+2023-07-10 18:02:30.744 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:02:30.748 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:02:30.749 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:02:30.750 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:02:30.751 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:02:30.752 +05:30 [DBG] Hosting started
+2023-07-10 18:03:20.873 +05:30 [INF] Application is ready
+2023-07-10 18:03:21.030 +05:30 [DBG] Hosting starting
+2023-07-10 18:03:21.239 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:03:21.243 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:03:21.244 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:03:21.245 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:03:21.245 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:03:21.246 +05:30 [DBG] Hosting started
+2023-07-10 18:03:36.639 +05:30 [INF] Application is ready
+2023-07-10 18:03:36.780 +05:30 [DBG] Hosting starting
+2023-07-10 18:03:36.952 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:03:36.955 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:03:36.956 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:03:36.958 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:03:36.959 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:03:36.959 +05:30 [DBG] Hosting started
+2023-07-10 18:04:42.335 +05:30 [INF] Application is ready
+2023-07-10 18:04:47.201 +05:30 [DBG] Hosting starting
+2023-07-10 18:04:47.369 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:04:47.373 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:04:47.374 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:04:47.375 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:04:47.375 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:04:47.376 +05:30 [DBG] Hosting started
+2023-07-10 18:04:53.208 +05:30 [ERR] Application is ready
+2023-07-10 18:06:23.709 +05:30 [INF] Application is ready
+2023-07-10 18:06:23.849 +05:30 [DBG] Hosting starting
+2023-07-10 18:06:24.022 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:06:24.025 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:06:24.026 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:06:24.027 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:06:24.028 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:06:24.029 +05:30 [DBG] Hosting started
+2023-07-10 18:06:30.171 +05:30 [ERR] Application is ready
+2023-07-10 18:06:31.120 +05:30 [ERR] Application is ready
+2023-07-10 18:06:34.612 +05:30 [ERR] Application is ready
+2023-07-10 18:06:35.471 +05:30 [ERR] Application is ready
+2023-07-10 18:08:30.620 +05:30 [INF] Application is ready
+2023-07-10 18:08:30.762 +05:30 [DBG] Hosting starting
+2023-07-10 18:08:30.928 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:08:30.931 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:08:30.933 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:08:30.936 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:08:30.937 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:08:30.938 +05:30 [DBG] Hosting started
+2023-07-10 18:08:31.284 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:08:31.307 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 18:08:31.337 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 18:08:31.625 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 12:38:30 GMT
+Server: Kestrel
+2023-07-10 18:08:31.669 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:08:31.670 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:08:31.670 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:08:31.699 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 12:38:30 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 18:08:31.704 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:38:30 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 18:08:31.752 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:38:30 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 18:08:31.960 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:08:32.051 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 12:38:31 GMT
+Server: Kestrel
+2023-07-10 18:08:35.574 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:08:35.599 +05:30 [ERR] Application is ready
+2023-07-10 18:08:35.637 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 12:38:34 GMT
+Server: Kestrel
+2023-07-10 18:09:43.716 +05:30 [INF] Application is ready
+2023-07-10 18:09:43.866 +05:30 [DBG] Hosting starting
+2023-07-10 18:09:44.039 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:09:44.042 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:09:44.043 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:09:44.044 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:09:44.045 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:09:44.046 +05:30 [DBG] Hosting started
+2023-07-10 18:09:44.472 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:09:44.494 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 18:09:44.527 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 18:09:44.805 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 12:39:43 GMT
+Server: Kestrel
+2023-07-10 18:09:44.863 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:09:44.864 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:09:44.864 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:09:44.882 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 12:39:43 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 18:09:44.923 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:39:43 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 18:09:44.924 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:39:43 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 18:09:45.141 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:09:45.230 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 12:39:44 GMT
+Server: Kestrel
+2023-07-10 18:09:48.078 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:09:48.095 +05:30 [ERR] Application is ready
+2023-07-10 18:09:48.120 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 12:39:47 GMT
+Server: Kestrel
+2023-07-10 18:09:48.905 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:09:48.906 +05:30 [ERR] Application is ready
+2023-07-10 18:09:48.907 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 12:39:47 GMT
+Server: Kestrel
+2023-07-10 18:10:41.030 +05:30 [INF] Application is ready
+2023-07-10 18:10:41.199 +05:30 [DBG] Hosting starting
+2023-07-10 18:10:41.385 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:10:41.388 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:10:41.389 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:10:41.390 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:10:41.391 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:10:41.392 +05:30 [DBG] Hosting started
+2023-07-10 18:10:42.240 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:10:42.262 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 18:10:42.293 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 18:10:42.565 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 12:40:42 GMT
+Server: Kestrel
+2023-07-10 18:10:42.607 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:10:42.607 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:10:42.607 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:10:42.632 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 12:40:42 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 18:10:42.666 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:40:42 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 18:10:42.667 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:40:42 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 18:10:42.890 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:10:42.985 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 12:40:42 GMT
+Server: Kestrel
+2023-07-10 18:10:46.257 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:10:46.274 +05:30 [ERR] Application is ready
+2023-07-10 18:10:46.299 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 12:40:45 GMT
+Server: Kestrel
+2023-07-10 18:14:52.982 +05:30 [INF] Application is ready
+2023-07-10 18:14:53.133 +05:30 [DBG] Hosting starting
+2023-07-10 18:14:53.304 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:14:53.307 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:14:53.308 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:14:53.309 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:14:53.310 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:14:53.311 +05:30 [DBG] Hosting started
+2023-07-10 18:14:53.652 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:14:53.674 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 18:14:53.703 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 18:14:53.983 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 12:44:53 GMT
+Server: Kestrel
+2023-07-10 18:14:53.993 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:14:53.994 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:14:53.994 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:14:54.008 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 12:44:53 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 18:14:54.057 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:44:53 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 18:14:54.060 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:44:53 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 18:14:54.327 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:14:54.427 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 12:44:54 GMT
+Server: Kestrel
+2023-07-10 18:17:40.298 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:17:40.314 +05:30 [ERR] Application is ready
+2023-07-10 18:17:40.341 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 12:47:39 GMT
+Server: Kestrel
+2023-07-10 18:18:05.479 +05:30 [INF] Application is ready
+2023-07-10 18:18:05.636 +05:30 [DBG] Hosting starting
+2023-07-10 18:18:05.822 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:18:05.824 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:18:05.825 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:18:05.826 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:18:05.826 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:18:05.827 +05:30 [DBG] Hosting started
+2023-07-10 18:18:06.341 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:18:06.363 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 18:18:06.396 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 18:18:06.670 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 12:48:05 GMT
+Server: Kestrel
+2023-07-10 18:18:06.679 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:18:06.679 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:18:06.679 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:18:06.688 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 12:48:05 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 18:18:06.690 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:48:05 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 18:18:06.710 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:48:05 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 18:18:06.997 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:18:07.091 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 12:48:06 GMT
+Server: Kestrel
+2023-07-10 18:18:09.984 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:18:10.001 +05:30 [ERR] Application is ready
+2023-07-10 18:18:10.025 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 12:48:09 GMT
+Server: Kestrel
+2023-07-10 18:18:11.516 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:18:11.519 +05:30 [ERR] Application is ready
+2023-07-10 18:18:11.521 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 12:48:10 GMT
+Server: Kestrel
+2023-07-10 18:28:35.873 +05:30 [INF] Application is ready
+2023-07-10 18:28:36.036 +05:30 [DBG] Hosting starting
+2023-07-10 18:28:36.223 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:28:36.226 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:28:36.227 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:28:36.228 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:28:36.228 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:28:36.229 +05:30 [DBG] Hosting started
+2023-07-10 18:28:36.714 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:28:36.737 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 18:28:36.768 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 18:28:37.043 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 12:58:36 GMT
+Server: Kestrel
+2023-07-10 18:28:37.092 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:28:37.093 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:28:37.098 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:28:37.118 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 12:58:36 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 18:28:37.120 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:58:36 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 18:28:37.141 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:58:36 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 18:28:37.384 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:28:37.476 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 12:58:37 GMT
+Server: Kestrel
+2023-07-10 18:29:45.697 +05:30 [INF] Application is ready
+2023-07-10 18:29:45.849 +05:30 [DBG] Hosting starting
+2023-07-10 18:29:46.024 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:29:46.027 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:29:46.028 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:29:46.029 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:29:46.030 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:29:46.030 +05:30 [DBG] Hosting started
+2023-07-10 18:29:46.384 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:29:46.405 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 18:29:46.436 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 18:29:46.716 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 12:59:45 GMT
+Server: Kestrel
+2023-07-10 18:29:46.762 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:29:46.762 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:29:46.762 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:29:46.796 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 12:59:45 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 18:29:46.798 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:59:45 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 18:29:46.846 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 12:59:45 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 18:29:47.051 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:29:47.143 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 12:59:46 GMT
+Server: Kestrel
+2023-07-10 18:29:50.719 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:29:50.735 +05:30 [ERR] Application is ready
+2023-07-10 18:29:50.758 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 12:59:49 GMT
+Server: Kestrel
+2023-07-10 18:29:51.477 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:29:51.479 +05:30 [ERR] Application is ready
+2023-07-10 18:29:51.480 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 12:59:50 GMT
+Server: Kestrel
+2023-07-10 18:33:18.331 +05:30 [INF] Application is ready
+2023-07-10 18:33:18.496 +05:30 [DBG] Hosting starting
+2023-07-10 18:33:18.663 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:33:18.666 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:33:18.667 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:33:18.668 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:33:18.668 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:33:18.669 +05:30 [DBG] Hosting started
+2023-07-10 18:33:19.033 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:33:19.055 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 18:33:19.087 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 18:33:19.353 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 13:03:18 GMT
+Server: Kestrel
+2023-07-10 18:33:19.363 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:33:19.363 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:33:19.363 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:33:19.374 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 13:03:18 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 18:33:19.379 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 13:03:18 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 18:33:19.399 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 13:03:18 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 18:33:19.675 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:33:19.773 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 13:03:19 GMT
+Server: Kestrel
+2023-07-10 18:33:24.931 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:33:24.946 +05:30 [ERR] Application is ready
+2023-07-10 18:33:24.976 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 13:03:24 GMT
+Server: Kestrel
+2023-07-10 18:33:26.020 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:33:26.022 +05:30 [ERR] Application is ready
+2023-07-10 18:33:26.023 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 13:03:25 GMT
+Server: Kestrel
+2023-07-10 18:36:41.069 +05:30 [INF] Application is ready
+2023-07-10 18:36:41.231 +05:30 [DBG] Hosting starting
+2023-07-10 18:36:41.413 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 18:36:41.417 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 18:36:41.418 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 18:36:41.419 +05:30 [INF] Hosting environment: Development
+2023-07-10 18:36:41.419 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 18:36:41.420 +05:30 [DBG] Hosting started
+2023-07-10 18:36:41.880 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:36:41.905 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 18:36:41.940 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 18:36:42.240 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 13:06:41 GMT
+Server: Kestrel
+2023-07-10 18:36:42.250 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:36:42.250 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:36:42.250 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:36:42.259 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 13:06:41 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 18:36:42.260 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 13:06:41 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 18:36:42.263 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 13:06:41 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 18:36:42.562 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:36:42.651 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 13:06:42 GMT
+Server: Kestrel
+2023-07-10 18:37:16.149 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:37:16.185 +05:30 [ERR] Application is ready
+2023-07-10 18:37:16.210 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 13:07:15 GMT
+Server: Kestrel
+2023-07-10 18:37:17.175 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 18:37:17.177 +05:30 [ERR] Application is ready
+2023-07-10 18:37:17.179 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 13:07:16 GMT
+Server: Kestrel
+2023-07-10 22:33:44.763 +05:30 [INF] Application is ready
+2023-07-10 22:33:44.955 +05:30 [DBG] Hosting starting
+2023-07-10 22:33:45.154 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 22:33:45.157 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 22:33:45.158 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 22:33:45.160 +05:30 [INF] Hosting environment: Development
+2023-07-10 22:33:45.160 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 22:33:45.161 +05:30 [DBG] Hosting started
+2023-07-10 22:33:45.866 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 22:33:45.889 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 22:33:45.919 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 22:33:46.206 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 17:03:46 GMT
+Server: Kestrel
+2023-07-10 22:33:46.249 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 22:33:46.249 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 22:33:46.250 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 22:33:46.268 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 17:03:46 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 22:33:46.268 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 17:03:46 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 22:33:46.326 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 17:03:46 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 22:33:46.582 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 22:33:46.671 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 17:03:46 GMT
+Server: Kestrel
+2023-07-10 22:34:09.187 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 22:34:09.203 +05:30 [ERR] Application is ready
+2023-07-10 22:34:09.228 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 17:04:08 GMT
+Server: Kestrel
+2023-07-10 22:49:43.247 +05:30 [INF] Application is ready
+2023-07-10 22:49:43.451 +05:30 [DBG] Hosting starting
+2023-07-10 22:49:43.570 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-07-10 22:50:26.280 +05:30 [INF] Application is ready
+2023-07-10 22:50:26.455 +05:30 [DBG] Hosting starting
+2023-07-10 22:50:26.489 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-07-10 22:50:41.673 +05:30 [INF] Application is ready
+2023-07-10 22:50:41.869 +05:30 [DBG] Hosting starting
+2023-07-10 22:50:41.902 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-07-10 22:50:53.313 +05:30 [INF] Application is ready
+2023-07-10 22:50:53.523 +05:30 [DBG] Hosting starting
+2023-07-10 22:50:53.569 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-07-10 22:51:10.390 +05:30 [INF] Application is ready
+2023-07-10 22:51:10.597 +05:30 [DBG] Hosting starting
+2023-07-10 22:51:10.629 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-07-10 22:51:25.394 +05:30 [INF] Application is ready
+2023-07-10 22:51:25.572 +05:30 [DBG] Hosting starting
+2023-07-10 22:51:25.605 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-07-10 22:51:39.380 +05:30 [INF] Application is ready
+2023-07-10 22:51:39.629 +05:30 [DBG] Hosting starting
+2023-07-10 22:51:39.673 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-07-10 22:59:32.326 +05:30 [INF] Application is ready
+2023-07-10 22:59:32.541 +05:30 [DBG] Hosting starting
+2023-07-10 22:59:32.576 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-07-10 23:01:16.361 +05:30 [INF] Application is ready
+2023-07-10 23:01:16.607 +05:30 [DBG] Hosting starting
+2023-07-10 23:01:16.648 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-07-10 23:02:21.947 +05:30 [INF] Application is ready
+2023-07-10 23:02:22.125 +05:30 [DBG] Hosting starting
+2023-07-10 23:02:22.193 +05:30 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Serilog.Extensions.Hosting.DiagnosticContext' while attempting to activate 'Serilog.AspNetCore.RequestLoggingMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2023-07-10 23:03:29.421 +05:30 [INF] Application is ready
+2023-07-10 23:03:29.594 +05:30 [DBG] Hosting starting
+2023-07-10 23:03:29.839 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 23:03:29.843 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 23:03:29.844 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 23:03:29.845 +05:30 [INF] Hosting environment: Development
+2023-07-10 23:03:29.845 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 23:03:29.846 +05:30 [DBG] Hosting started
+2023-07-10 23:03:30.628 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:03:30.653 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 23:03:30.701 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 23:03:31.031 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 17:33:30 GMT
+Server: Kestrel
+2023-07-10 23:03:31.041 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:03:31.041 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:03:31.041 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:03:31.056 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 17:33:30 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 23:03:31.061 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 17:33:30 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 23:03:31.116 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 17:33:30 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 23:03:31.381 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:03:31.484 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 17:33:30 GMT
+Server: Kestrel
+2023-07-10 23:03:34.627 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:03:34.651 +05:30 [ERR] Application is ready
+2023-07-10 23:03:34.678 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 17:33:33 GMT
+Server: Kestrel
+2023-07-10 23:04:49.888 +05:30 [INF] Application is ready
+2023-07-10 23:04:50.059 +05:30 [DBG] Hosting starting
+2023-07-10 23:04:50.238 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 23:04:50.241 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 23:04:50.243 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 23:04:50.244 +05:30 [INF] Hosting environment: Development
+2023-07-10 23:04:50.244 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 23:04:50.245 +05:30 [DBG] Hosting started
+2023-07-10 23:04:50.988 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:04:51.011 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 23:04:51.047 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 23:04:51.334 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 17:34:51 GMT
+Server: Kestrel
+2023-07-10 23:04:51.344 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:04:51.345 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:04:51.345 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:04:51.355 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 17:34:51 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 23:04:51.357 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 17:34:51 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 23:04:51.360 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 17:34:51 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 23:04:51.683 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:04:51.791 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 17:34:51 GMT
+Server: Kestrel
+2023-07-10 23:04:55.243 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:04:55.265 +05:30 [ERR] Application is ready
+2023-07-10 23:04:55.298 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 17:34:55 GMT
+Server: Kestrel
+2023-07-10 23:19:49.008 +05:30 [INF] Application is ready
+2023-07-10 23:19:49.196 +05:30 [DBG] Hosting starting
+2023-07-10 23:19:49.447 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 23:19:49.450 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 23:19:49.451 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 23:19:49.452 +05:30 [INF] Hosting environment: Development
+2023-07-10 23:19:49.453 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 23:19:49.453 +05:30 [DBG] Hosting started
+2023-07-10 23:19:50.010 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:19:50.032 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 23:19:50.069 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 23:19:50.358 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 17:49:49 GMT
+Server: Kestrel
+2023-07-10 23:19:50.365 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:19:50.365 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:19:50.365 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:19:50.376 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 17:49:50 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 23:19:50.381 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 17:49:50 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 23:19:50.405 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 17:49:50 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 23:19:50.693 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:19:50.786 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 17:49:50 GMT
+Server: Kestrel
+2023-07-10 23:24:58.977 +05:30 [INF] Application is ready
+2023-07-10 23:24:59.143 +05:30 [DBG] Hosting starting
+2023-07-10 23:24:59.329 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 23:24:59.332 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 23:24:59.334 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 23:24:59.335 +05:30 [INF] Hosting environment: Development
+2023-07-10 23:24:59.335 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 23:24:59.336 +05:30 [DBG] Hosting started
+2023-07-10 23:25:00.125 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:25:00.148 +05:30 [INF] Response:
+StatusCode: 301
+Location: swagger/index.html
+2023-07-10 23:25:00.180 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Upgrade-Insecure-Requests: [Redacted]
+DNT: 1
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-user: [Redacted]
+sec-fetch-dest: [Redacted]
+sec-ch-ua: [Redacted]
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+2023-07-10 23:25:00.454 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/html;charset=utf-8
+Date: Mon, 10 Jul 2023 17:55:00 GMT
+Server: Kestrel
+2023-07-10 23:25:00.493 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui.css
+Accept: text/css,*/*;q=0.1
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:25:00.494 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-bundle.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:25:00.494 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/swagger-ui-standalone-preset.js
+Accept: */*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:25:00.520 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Mon, 10 Jul 2023 17:55:00 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 144929
+2023-07-10 23:25:00.521 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 17:55:00 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 312163
+2023-07-10 23:25:00.531 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/javascript
+Date: Mon, 10 Jul 2023 17:55:00 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Wed, 11 Jan 2023 06:49:02 GMT
+Content-Length: 1061536
+2023-07-10 23:25:00.769 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /swagger/v1/swagger.json
+Accept: application/json,*/*
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:25:00.868 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json;charset=utf-8
+Date: Mon, 10 Jul 2023 17:55:00 GMT
+Server: Kestrel
+2023-07-10 23:25:03.893 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:25:03.909 +05:30 [ERR] Application is ready
+2023-07-10 23:25:03.934 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 17:55:03 GMT
+Server: Kestrel
+2023-07-10 23:25:04.787 +05:30 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /WeatherForecast
+Accept: text/plain
+Host: localhost:7171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+:method: [Redacted]
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi;q=0.8,mr;q=0.7
+Referer: [Redacted]
+sec-ch-ua: [Redacted]
+DNT: 1
+sec-ch-ua-mobile: [Redacted]
+sec-ch-ua-platform: [Redacted]
+sec-fetch-site: [Redacted]
+sec-fetch-mode: [Redacted]
+sec-fetch-dest: [Redacted]
+2023-07-10 23:25:04.789 +05:30 [ERR] Application is ready
+2023-07-10 23:25:04.791 +05:30 [INF] Response:
+StatusCode: 200
+Content-Type: application/json; charset=utf-8
+Date: Mon, 10 Jul 2023 17:55:04 GMT
+Server: Kestrel
+2023-07-10 23:42:39.489 +05:30 [INF] Application is ready
+2023-07-10 23:42:39.665 +05:30 [DBG] Hosting starting
+2023-07-10 23:42:39.865 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 23:42:39.869 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 23:42:39.870 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 23:42:39.871 +05:30 [INF] Hosting environment: Development
+2023-07-10 23:42:39.872 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 23:42:39.873 +05:30 [DBG] Hosting started
+2023-07-10 23:42:57.511 +05:30 [ERR] Application is ready
+2023-07-10 23:56:59.402 +05:30 [INF] Application is ready
+2023-07-10 23:56:59.566 +05:30 [DBG] Hosting starting
+2023-07-10 23:56:59.787 +05:30 [INF] Now listening on: https://localhost:7171
+2023-07-10 23:56:59.791 +05:30 [INF] Now listening on: http://localhost:5123
+2023-07-10 23:56:59.792 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-07-10 23:56:59.793 +05:30 [INF] Hosting environment: Development
+2023-07-10 23:56:59.794 +05:30 [INF] Content root path: C:\Users\Jaydeep\source\repos\My.Amazing.Template\My.Amazing.Template\
+2023-07-10 23:56:59.794 +05:30 [DBG] Hosting started
